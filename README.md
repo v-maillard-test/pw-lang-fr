@@ -1,5 +1,6 @@
 # Traduction française de ProcessWire
 
+Changement
 Traduction complète pour la version 2.7.
 
 ## Coquilles et problèmes
